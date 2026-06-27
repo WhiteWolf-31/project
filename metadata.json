@@ -1,0 +1,6 @@
+{
+  "name": "A3TechWorld",
+  "description": "AI-powered website creation platform landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
